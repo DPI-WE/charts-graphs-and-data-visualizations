@@ -101,9 +101,8 @@ This method offers several benefits:
 By integrating ChartKick and Groupdate into your application, you can effortlessly create dynamic and informative charts. These visualizations not only improve the user experience but also provide valuable insights into your data. Experiment with different chart types and data sets to fully leverage the potential of these powerful gems in your projects.
 
 ## Resources
-- [ChartKick](https://github.com/ankane/chartkick): Explore more features and chart types supported by ChartKick here.
-Active Record Querying Guide: Enhance your understanding of querying in Rails here.
-- [Groupdate](https://github.com/ankane/groupdate): Dive deeper into time-based grouping with Groupdate here.
+- [ChartKick](https://github.com/ankane/chartkick)
+- [Groupdate](https://github.com/ankane/groupdate)
 - [Example Project](https://github.com/DPI-WE/chartkick-example)
 - [Lecture Video](https://youtu.be/fBxbMVnJHDY)
 - [Active Record Querying Guide](https://guides.rubyonrails.org/active_record_querying.html)
