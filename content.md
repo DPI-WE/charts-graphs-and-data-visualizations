@@ -104,6 +104,7 @@ By integrating ChartKick and Groupdate into your application, you can effortless
 - [ChartKick](https://github.com/ankane/chartkick)
 - [Groupdate](https://github.com/ankane/groupdate)
 - [Example Project](https://github.com/DPI-WE/chartkick-example)
+  - [Pull Request](https://github.com/DPI-WE/chartkick-example/pull/1)
 - [Lecture Video](https://youtu.be/fBxbMVnJHDY)
 - [Active Record Querying Guide](https://guides.rubyonrails.org/active_record_querying.html)
   - [grouping](https://guides.rubyonrails.org/active_record_querying.html#grouping)
